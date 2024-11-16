@@ -1,14 +1,14 @@
 # Screenshots
 ![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/Screenshot%202024-11-16%20115607.png?raw=true)
-
-
-
-
-
-
-
-
-
+![img alt](
+![img alt]
+![img alt]
+![img alt]
+![img alt]
+![img alt]
+![img alt]
+![img alt]
+![img alt]
 
 
 
