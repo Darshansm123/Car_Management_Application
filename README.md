@@ -1,3 +1,60 @@
+# Screenshots
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Project Overview
 The Car Management Application is a web-based platform that allows users to manage their cars effectively. It includes features like user authentication, 
 car listing, search functionality, adding new cars, updating existing car details, and deleting cars.
