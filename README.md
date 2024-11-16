@@ -1,7 +1,5 @@
 # Screenshots
-https://github.com/Darshansm123/Car_Management_Application/blob/c4a91c67a075d304a02a7181755d60b5dd0afdc8/Screenshot%202024-11-16%20115607.png
-
-
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/Screenshot%202024-11-16%20115607.png?raw=true)
 
 
 
