@@ -1,14 +1,14 @@
 # Screenshots
 ![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/Screenshot%202024-11-16%20115607.png?raw=true)
-![img alt](
-![img alt]
-![img alt]
-![img alt]
-![img alt]
-![img alt]
-![img alt]
-![img alt]
-![img alt]
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/login%20image.png?raw=true)
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/register%20image.png?raw=true)
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/dashboard.png?raw=true)
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/car%20add%20image.png?raw=true)
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/home%20image.png?raw=true)
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/view%20image.png?raw=true)
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/view%20image.png?raw=true)
+![img alt](https://github.com/Darshansm123/Car_Management_Application/blob/master/view%20image.png?raw=true)
+
 
 
 
